@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Use Material3 for compatibility with enableEdgeToEdge and Compose Material3 -->
+    <style name="Theme.KutiraKushala" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Optional: Customize status bar color if needed -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
