@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449334382659",
+    "project_id": "kutira-kushala-5644c",
+    "storage_bucket": "kutira-kushala-5644c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449334382659:android:bca174e4581d984e1044f6",
+        "android_client_info": {
+          "package_name": "com.app.kutira_kushala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449334382659-dsdn1kb9oogh33e2dd66nlpufebrpsak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.kutira_kushala",
+            "certificate_hash": "33194b7ed0a4ef16fb161d4552273e3a893d2b93"
+          }
+        },
+        {
+          "client_id": "449334382659-bdj8a3re3bfcicgddq5qkanlvgtef164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQs5tR8HcSE-OYrVZ9b22j-RS4ghS3hgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449334382659-bdj8a3re3bfcicgddq5qkanlvgtef164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
